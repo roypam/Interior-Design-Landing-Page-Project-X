@@ -20,7 +20,7 @@ Clone the project
 ```bash
   git clone https://github.com/roypam/Interior-Design-Landing-Page-Project-X.git
 ```
-## Deployed Link - 
+## Deployed Link (Hosted in Netlify) 
   [Click Me](https://interior-design-2022.netlify.app/)
 
 ## Author and Contact
